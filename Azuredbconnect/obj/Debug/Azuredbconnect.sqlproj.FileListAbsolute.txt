@@ -1,0 +1,6 @@
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\bin\Debug\Azuredbconnect.dacpac
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\bin\Debug\Azuredbconnect.dll
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\bin\Debug\Azuredbconnect.pdb
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\obj\Debug\Azuredbconnect.sqlproj.AssemblyReference.cache
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\obj\Debug\Azuredbconnect.dll
+C:\Users\venkatesh b\Source\Repos\Azuredbconnect\Azuredbconnect\obj\Debug\Azuredbconnect.pdb
